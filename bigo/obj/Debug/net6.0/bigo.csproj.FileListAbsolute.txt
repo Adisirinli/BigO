@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\bigo\bigo\bin\Debug\net6.0\bigo.exe
+C:\Users\User\Desktop\bigo\bigo\bin\Debug\net6.0\bigo.deps.json
+C:\Users\User\Desktop\bigo\bigo\bin\Debug\net6.0\bigo.runtimeconfig.json
+C:\Users\User\Desktop\bigo\bigo\bin\Debug\net6.0\bigo.dll
+C:\Users\User\Desktop\bigo\bigo\bin\Debug\net6.0\bigo.pdb
+C:\Users\User\Desktop\bigo\bigo\obj\Debug\net6.0\bigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\bigo\bigo\obj\Debug\net6.0\bigo.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\bigo\bigo\obj\Debug\net6.0\bigo.AssemblyInfo.cs
+C:\Users\User\Desktop\bigo\bigo\obj\Debug\net6.0\bigo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\bigo\bigo\obj\Debug\net6.0\bigo.dll
+C:\Users\User\Desktop\bigo\bigo\obj\Debug\net6.0\refint\bigo.dll
+C:\Users\User\Desktop\bigo\bigo\obj\Debug\net6.0\bigo.pdb
+C:\Users\User\Desktop\bigo\bigo\obj\Debug\net6.0\bigo.genruntimeconfig.cache
+C:\Users\User\Desktop\bigo\bigo\obj\Debug\net6.0\ref\bigo.dll
